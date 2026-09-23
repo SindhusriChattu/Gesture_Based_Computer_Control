@@ -1,6 +1,7 @@
-tensorflow
-opencv-python
-numpy
+tensorflow==2.20.0
+keras==3.10.0
+numpy==2.0.2
+opencv-python-headless
 streamlit
+pillow
 pyautogui
-Pillow
